@@ -1,5 +1,11 @@
 # ai-dockerfile
 
+[![npm version](https://img.shields.io/npm/v/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
+[![npm downloads](https://img.shields.io/npm/dm/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered Dockerfile generator. Scans your project and creates optimized multi-stage builds.
+
 Writing Dockerfiles is tedious. This tool scans your project and generates an optimized multi-stage Dockerfile that actually makes sense.
 
 ## Install

@@ -10,10 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "docker",
     "dockerfile",
-    "ai",
-    "cli"
+    "devops",
+    "container",
+    "deployment",
+    "kubernetes",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "multi-stage"
   ],
   "license": "MIT",
   "dependencies": {
