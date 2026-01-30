@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
 [![npm downloads](https://img.shields.io/npm/dm/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-dockerfile)](https://github.com/lxgic-studios/ai-dockerfile/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered Dockerfile generator. Scans your project and creates optimized multi-stage builds.
 
