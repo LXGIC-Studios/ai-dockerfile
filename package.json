@@ -1,5 +1,5 @@
 {
-  "name": "ai-dockerfile",
+  "name": "@lxgicstudios/ai-dockerfile",
   "version": "1.0.0",
   "description": "Scans your project and generates an optimized multi-stage Dockerfile",
   "main": "dist/index.js",
