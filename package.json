@@ -15,34 +15,42 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
     "container",
     "deployment",
-    "developer-tools",
-    "devops",
+    "developer-experience",
+    "developer-productivity",
+    "discoverability",
     "docker",
-    "dockerfile",
-    "gpt",
-    "kubernetes",
-    "llm",
-    "multi-stage",
+    "documentation",
+    "generative-ai",
+    "knowledge-base",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "openai",
-    "typescript",
-    "zero-config"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "tech-writing",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-dockerfile#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-dockerfile"
+    "url": "https://github.com/LXGIC-Studios/ai-dockerfile"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-dockerfile/issues"

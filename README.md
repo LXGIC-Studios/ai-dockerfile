@@ -1,59 +1,123 @@
-# ai-dockerfile
+## 📄 License
 
-[![npm version](https://img.shields.io/npm/v/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
-[![npm downloads](https://img.shields.io/npm/dm/ai-dockerfile.svg)](https://www.npmjs.com/package/ai-dockerfile)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-dockerfile)](https://github.com/lxgic-studios/ai-dockerfile/stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+MIT License - see [LICENSE](LICENSE) file for details.
+## 🏷️ Badges
 
+![npm](https://img.shields.io/npm/v/ai-dockerfile)
+![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
+![License](https://img.shields.io/npm/l/ai-dockerfile)
+![TypeScript](https://img.shields.io/badge/typescript-%3E%3D4.0-blue)
 
-AI-powered Dockerfile generator. Scans your project and creates optimized multi-stage builds.
+# Dockerfile generation and optimization tool
 
-Writing Dockerfiles is tedious. This tool scans your project and generates an optimized multi-stage Dockerfile that actually makes sense.
-
-## Install
-
-```bash
-npm install -g ai-dockerfile
-```
-
+Dockerfile generator. Creates optimized container images with multi-stage builds and security hardening.
 ## Usage
 
-```bash
-# Generate a Dockerfile
-npx ai-dockerfile
+```javascript
+// Import the package
+const dockerfile = require('ai-dockerfile');
 
-# Generate an optimized multi-stage build
-npx ai-dockerfile --optimize
-
-# Preview without writing
-npx ai-dockerfile --preview
-
-# Custom output path
-npx ai-dockerfile --output ./docker/Dockerfile
+// Basic usage example
+dockerfile.main();
 ```
 
-## What it does
+## Examples
 
-Looks at your project structure, figures out the runtime, framework, and build steps, then generates a proper multi-stage Dockerfile. It handles Node.js, Python, Go, Rust, and more.
+See the `examples/` directory for more detailed usage examples.
 
-## Requirements
-
-Set your `OPENAI_API_KEY` environment variable.
+## Installation
 
 ```bash
-export OPENAI_API_KEY=sk-...
+npm install ai-dockerfile
 ```
 
-## License
+[![npm version](https://badge.fury.io/js/ai-dockerfile.svg)](https://badge.fury.io/js/ai-dockerfile)
 
-MIT
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗  https://github.com/lxgicstudios ·  https://x.com/lxgicstudios
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+
+
+
+
+ [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
+
+
+- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
+- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
+
+## 🚀 Built with ❤️ by LXGIC Studios
+
+> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
+
+
+**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
+**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
+**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
+
+## 📄 License
+
+MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lxgicstudios/sponsor">
+      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
+    </a>
+    <a href="https://twitter.com/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
+    </a>
+    <a href="https://discord.gg/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    </a>
+  </p>
+</div>
+
+---
+
+Built by [LXGIC Studios](https://github.com/lxgicstudios)
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
 
 
 ---
 
-Built by [LXGIC Studios](https://github.com/LXGIC-Studios)
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
 
 🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
 
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
