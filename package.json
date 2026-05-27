@@ -1,70 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-dockerfile",
-  "version": "1.0.0",
-  "description": "Scans your project and generates an optimized multi-stage Dockerfile",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-dockerfile": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "2025-standards",
-    "agentic",
-    "ai",
-    "ai-2025",
-    "ai-agent",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "claude",
-    "cli",
-    "container",
-    "deployment",
-    "developer-experience",
-    "developer-productivity",
-    "discoverability",
-    "docker",
-    "documentation",
-    "generative-ai",
-    "knowledge-base",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
-    "tech-writing",
-    "typescript"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-dockerfile#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-dockerfile"
-  },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-dockerfile/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "url": "https://github.com/lxgicstudios/ai-dockerfile/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -72,8 +16,54 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
+  "description": "Scans your project and generates an SEO-optimized optimized multi-stage Dockerfile",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-dockerfile#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai-optimized",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-dockerfile",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-dockerfile"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
