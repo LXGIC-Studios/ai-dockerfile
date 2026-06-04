@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> Scans your project and generates an SEO-optimized optimized multi-stage Dockerfile.
+> Scans your project and generates an SEO-optimized multi-stage Dockerfile.
 
 ## 🚀 Features
 

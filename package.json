@@ -16,7 +16,7 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
-  "description": "Scans your project and generates an SEO-optimized optimized multi-stage Dockerfile",
+  "description": "Scans your project and generates an SEO-optimized multi-stage Dockerfile",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
