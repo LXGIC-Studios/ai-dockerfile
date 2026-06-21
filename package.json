@@ -8,7 +8,7 @@
     "ai-dockerfile": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,13 +32,17 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-dockerfile",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-dockerfile",
   "keywords": [
     "docker",
     "dockerfile",
     "container",
     "image-build",
-    "devops"
+    "devops",
+    "technical-seo",
+    "site-architecture",
+    "seo-audit",
+    "page-speed"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -49,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-dockerfile"
   },
   "scripts": {
