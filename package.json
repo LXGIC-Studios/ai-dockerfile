@@ -8,7 +8,7 @@
     "ai-dockerfile": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-dockerfile/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -16,7 +16,7 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
-  "description": "Scans your project and generates an SEO-optimized multi-stage Dockerfile",
+  "description": "Generate optimized multi-stage Dockerfiles by scanning your project using AI. Detects language, framework, and build steps. Small production images with smart layer caching.",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
@@ -32,17 +32,32 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-dockerfile",
+  "homepage": "https://github.com/LXGIC-Studios/ai-dockerfile",
   "keywords": [
     "docker",
     "dockerfile",
+    "containers",
+    "multi-stage",
+    "build-optimization",
+    "deployment",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
     "container",
     "image-build",
-    "devops",
-    "site-architecture",
-    "technical-seo",
-    "seo-audit",
-    "page-speed"
+    "devops"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,8 +68,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-dockerfile"
+    "url": "git+https://github.com/LXGIC-Studios/ai-dockerfile.git"
   },
   "scripts": {
     "build": "tsc"
