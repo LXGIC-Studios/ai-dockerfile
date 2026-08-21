@@ -16,7 +16,7 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
-  "description": "Generate optimized multi-stage Dockerfiles by scanning your project using AI. Detects language, framework, and build steps. Small production images with smart layer caching.",
+  "description": "Generate optimized multi-stage Dockerfiles by scanning your project. Detects language, framework, and build steps. Small production images with layer caching.",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
